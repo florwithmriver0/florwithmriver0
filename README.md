@@ -1,3 +1,3 @@
 Making software, (any)
-> [!CAUTION]
-> Offline for the week.
+> [!NOTE]
+> Feeling trippy?
